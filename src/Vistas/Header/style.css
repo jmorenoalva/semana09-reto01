@@ -1,9 +1,10 @@
-header{
+#cabecera{
   background-color: green;
   color: white;
+  height: 15vh;
 }
 
-h1{
+#titulo{
   padding: 0 0 0 0;
   margin: 0 0 0 0;
 }

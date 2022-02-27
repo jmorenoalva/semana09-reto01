@@ -1,8 +1,9 @@
-footer{
+#fin{
   background-color: green;
-  color: white
+  color: white;
+  /* height: 10vh; */
 }
-span{
+#texto-final{
   padding: 0 0 0 0;
   margin:0 0 0 0;
 }

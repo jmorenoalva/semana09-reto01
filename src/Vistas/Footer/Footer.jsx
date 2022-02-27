@@ -3,8 +3,8 @@ import './style.css'
 
 const Footer=()=>{
   return(
-    <footer id="footer">
-      <span id="span">FOOTER</span>
+    <footer id="fin">
+      <span id="texto-final">FOOTER</span>
     </footer>
   )
 };
